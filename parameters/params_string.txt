@@ -1,0 +1,15 @@
+MIS(peanutbutter) = 0.43
+MIS(bread) = 0.30
+MIS(butter) = 0.30
+MIS(pudding) = 0.40
+MIS(cookiecrisps) = 0.40
+MIS(yogurt) = 0.30
+MIS(corn-flakes) = 0.20
+MIS(jam) = 0.20
+MIS(nutella) = 0.20
+MIS(jalapeno) = 0.10
+MIS(cucumberpickle) = 0.20
+MIS(guacamole) = 0.15
+SDC = 0.1
+cannot_be_together: {bread, pudding}, {corn-flakes, jam}
+must-have: bread or pudding or cookiecrisps

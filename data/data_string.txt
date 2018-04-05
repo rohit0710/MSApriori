@@ -1,0 +1,6 @@
+{bread, butter, jam, corn-flakes, cookiecrisps, nutella}
+{bread, peanutbutter, jam, corn-flakes}
+{peanutbutter, bread, jam}
+{bread, butter, jam}
+{bread, jam}
+{bread, butter, jam, corn-flakes, cookiecrisps, nutella, jalapeno, cucumberpickle, Guacamole}
